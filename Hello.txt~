@@ -1,8 +1,5 @@
 println "Hello World"
-<<<<<<< HEAD
 println "novi pasussssss dssd"
-=======
 println "novi pasus"
-
 println "dodat novi na novom branch"
->>>>>>> nova_grana
+
