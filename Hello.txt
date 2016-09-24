@@ -3,4 +3,4 @@ println "novi pasussssss dssd"
 println "novi pasus"
 println "dodat novi na novom branch"
 println "za push na master na gitgub-u"
-
+println "dodat novi na novom branch treci"
